@@ -10,7 +10,7 @@ This dataset is released under the Apache License. See [LICENSE](LICENSE) for ad
 
 
 ## Contact
-if you have any questions about this repo, please feel free to contact isfanhy@gmail.com.
+If you have any questions about this repo, please feel free to contact isfanhy@gmail.com.
 
 
 
